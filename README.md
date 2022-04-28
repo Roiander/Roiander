@@ -1,18 +1,19 @@
 ### Hi I´m Rodrigo 🤵💻
 
-
-
-´´´javascript
-const Roiander = {
-  pronouns: "he" | "him"
-  code: [Javascript, C++, CSS],
-  tools: [React, Node, Storybook, Styled-omponents, Jest],
-  }
-  ´´´
+  ```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, CSS, C++],
+   tools: [React, Node, Storybook, StyledComponents, Jest],
+  },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
   
   You can find me 🌎:
-  -[Twitter](https://twitter.com/LittleRoiander)
-  -[Instagram](https://www.instagram.com/rodri.alcruz_/)
+-[Twitter](https://twitter.com/LittleRoiander)
+-[Instagram](https://www.instagram.com/rodri.alcruz_/)
   
 <!--
 **Roiander/Roiander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
