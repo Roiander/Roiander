@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/littleroiander" target="blank"><img src="https://img.shields.io/twitter/follow/littleroiander?logo=twitter&style=for-the-badge" alt="littleroiander" /></a> </p>
 
-- 🔭 I’m currently studing on [UPC](https://pregrado.upc.edu.pe/landings/admision/?gclid=CjwKCAjw9qiTBhBbEiwAp-GE0R90ppiKkHN-hUZsud2KLU8-HJoVr7SxkCRUYDsW5DkLgNBcSvD_IxoCfHAQAvD_BwE&utm_campaign=Admision&utm_content=Brand&utm_medium=Paid-Search&utm_source=Google)
+- 🔭 I’m currently studying on [UPC](https://pregrado.upc.edu.pe/landings/admision/?gclid=CjwKCAjw9qiTBhBbEiwAp-GE0R90ppiKkHN-hUZsud2KLU8-HJoVr7SxkCRUYDsW5DkLgNBcSvD_IxoCfHAQAvD_BwE&utm_campaign=Admision&utm_content=Brand&utm_medium=Paid-Search&utm_source=Google)
 
 - 🌱 I’m currently learning **C++, Javascript, CSS, C#**
 
