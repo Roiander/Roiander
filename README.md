@@ -43,7 +43,11 @@ const aboutMe = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roiander&layout=compact_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-
+<p align="center">
+    <a href="https://discord.com/users/834412677010817066" target="_blank" rel="nofollow">
+        <img src="https://lanyard-profile-readme.vercel.app/api/834412677010817066?&animated=true&borderRadius=30px&idleMessage=Working..." alt="Discord Presence" align="center">
+    </a>
+</p>
   
 <!--
 **Roiander/Roiander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
