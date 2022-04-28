@@ -12,8 +12,8 @@ const aboutMe = {
 ```
   
   You can find me 🌎:
--[Twitter](https://twitter.com/LittleRoiander)
--[Instagram](https://www.instagram.com/rodri.alcruz_/)
+- [Twitter](https://twitter.com/LittleRoiander)
+- [Instagram](https://www.instagram.com/rodri.alcruz_/)
   
 <!--
 **Roiander/Roiander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
