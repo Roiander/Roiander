@@ -2,7 +2,7 @@
 
 
 
-´´´js
+´´´javascript
 const Roiander = {
   pronouns: "he" | "him"
   code: [Javascript, C++, CSS],
