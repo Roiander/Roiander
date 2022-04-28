@@ -1,6 +1,15 @@
-### Hi I´m Rodrigo 🤵💻
+# Hi I´m Rodrigo Alcántara (Roiander) 🤵💻
+
+
+### My stats
 ![Roiander Github Stats](https://github-readme-stats.vercel.app/api?username=Roiander&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-  ```javascript
+
+
+<a href="https://github.com/Roiander">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roiander&layout=compact_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+ ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, CSS, C++],
