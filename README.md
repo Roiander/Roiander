@@ -1,14 +1,5 @@
 # Hi I´m Rodrigo Alcántara (Roiander) 🤵💻
 
-
-### My stats
-![Roiander Github Stats](https://github-readme-stats.vercel.app/api?username=Roiander&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-<a href="https://github.com/Roiander">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roiander&layout=compact_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
  ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -23,6 +14,16 @@ const aboutMe = {
   You can find me 🌎:
 - [Twitter](https://twitter.com/LittleRoiander)
 - [Instagram](https://www.instagram.com/rodri.alcruz_/)
+
+### My stats
+![Roiander Github Stats](https://github-readme-stats.vercel.app/api?username=Roiander&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+<a href="https://github.com/Roiander">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roiander&layout=compact_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+
   
 <!--
 **Roiander/Roiander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
