@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roiander&label=Profile%20views&color=0e75b6&style=flat" alt="roiander" /> </p>
 
-<p align="left"> <a href="https://twitter.com/littleroiander" target="blank"><img src="https://img.shields.io/twitter/follow/littleroiander?logo=twitter&style=for-the-badge" alt="littleroiander" /></a> </p>
+<p align="left"> <a href="https://twitter.com/roianderdev" target="blank"><img src="https://img.shields.io/twitter/follow/roianderdev?logo=twitter&style=for-the-badge" alt="roianderdev" /></a> </p>
 
 - 🔭 I’m currently studying on [UPC](https://pregrado.upc.edu.pe/landings/admision/?gclid=CjwKCAjw9qiTBhBbEiwAp-GE0R90ppiKkHN-hUZsud2KLU8-HJoVr7SxkCRUYDsW5DkLgNBcSvD_IxoCfHAQAvD_BwE&utm_campaign=Admision&utm_content=Brand&utm_medium=Paid-Search&utm_source=Google)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/littleroiander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="littleroiander" height="30" width="40" /></a>
+<a href="https://twitter.com/roianderdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roianderdev" height="30" width="40" /></a>
 <a href="https://instagram.com/rodri.alcruz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodri.alcruz_" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/SMGYz33Cb8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SMGYz33Cb8" height="30" width="40" /></a>
 </p>
